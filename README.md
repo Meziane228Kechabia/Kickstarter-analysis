@@ -10,7 +10,7 @@ My Analysis on the Kickstarter Data.
 	Many Excel functions didn't work well with my until I've 	updated my excel version.
 
 ### Analysis of Outcomes Based on Launch Date
-	I can tell that the month s of May and June both have 	greater success rate to launch a compaign, comparing to the 	months of November, December, and January.
+	I can tell that the month s of May and June both have 	greater success rate to launch a compaign, comparing to the 	months of November, December, and     	January.https://github.com/Meziane228Kechabia/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png
 
 ### Analysis of Outcomes Based on Goals
 	Based on the outcomes bases on goals charts, I've noticed 	that the most successful compaigns regarding range dollar 	amount are the ones located in between ($35,000 to $44,999),		this last rane alone have riched about 70% of success. The
