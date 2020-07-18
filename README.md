@@ -15,7 +15,7 @@ My Analysis on the Kickstarter Data.
 ### Analysis of Outcomes Based on Goals
 	Based on the outcomes bases on goals charts, I've noticed 	that the most successful compaigns regarding range dollar 	amount are the ones located in between ($35,000 to $44,999),		this last rane alone have riched about 70% of success. The
 	below $4,999 also riched the highst successful percentage 
-	rate of 80% 
+	rate of 80%.  https://github.com/Meziane228Kechabia/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 	I sometimes spent a lot of time in applying excel formulas, 	and I realised how time consuming is the data world.
